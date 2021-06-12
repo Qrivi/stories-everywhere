@@ -1,34 +1,3 @@
 # stories-everywhere
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Time to freshen up my Vue knowledge and get to know Vue 3 and Vuex 4 better. In my head this project has the potential to become something rather nice but only time will tell whether I finish or abandon it first.
